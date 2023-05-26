@@ -1,4 +1,4 @@
-# HelloCode
+# HelloMain
 
 - Hello Git
 - Hello GitHub
